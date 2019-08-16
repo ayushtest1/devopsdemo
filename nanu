@@ -1,5 +1,8 @@
 this is testing git
 ------
 ghjkl
+<<<<<<< HEAD
 ====
 ayush
+=======
+>>>>>>> parent of 9d09987... Update nanu
